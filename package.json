@@ -1,0 +1,19 @@
+{
+  "name": "4-new-letter-app",
+  "version": "1.0.0",
+  "description": "This is a new letter app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anisha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.16",
+    "request": "^2.88.2"
+  }
+}
